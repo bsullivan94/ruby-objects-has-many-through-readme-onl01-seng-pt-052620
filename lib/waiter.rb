@@ -19,8 +19,3 @@ class Waiter
   end
   
 end
-
-  pat = Waiter.new("Pat", 2)
-  alex = Waiter.new("Alex", 5)
-  
-  pat.new_meal(sam, 30, 5)
