@@ -19,8 +19,3 @@ class Customer
   end
   
 end
-
-sam = Customer.new("Sam", 27)
-  
-  sam.new_meal(pat, 50, 10)
-  sam.new_meal(alex, 20, 3)
